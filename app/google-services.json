@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369730564811",
+    "project_id": "firbasereadarraylist",
+    "storage_bucket": "firbasereadarraylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369730564811:android:63f937022b1cb29d84a14e",
+        "android_client_info": {
+          "package_name": "com.example.firbasereadarraylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369730564811-6sq8isqqbfjg6i4ojp3milqqq5t16pf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjH6pgebZF2hl3yK8pqPaw-hP84DiyvMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369730564811-6sq8isqqbfjg6i4ojp3milqqq5t16pf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
